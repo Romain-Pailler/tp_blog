@@ -1,0 +1,13 @@
+.list_blue_card{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+.blue_card{
+    flex-direction: row;
+    background-color: #105572;
+    padding: 7%;
+    margin: auto;
+    color: white;
+}
