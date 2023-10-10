@@ -2,12 +2,18 @@
     list-style: none;
     display: flex;
     justify-content: center;
+    flex-direction: row;
 
 }
 .blue_card{
-    flex-direction: row;
     background-color: #105572;
-    padding: 7%;
+    padding: 30px;
     margin: auto;
     color: white;
+}
+.white_card{
+    background-color: white;
+    padding: 30px;
+    margin: auto;
+    color: #105572;
 }
